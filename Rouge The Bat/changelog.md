@@ -1,4 +1,4 @@
-## Rouge The Bat V2.0.0.1
+## Rouge The Bat V2.1
 - Still v2.0 just forgot to add new animations for Super Rouge lmao
 
 ## Rouge The Bat V2.0
