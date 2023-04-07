@@ -1,30 +1,9 @@
-remove disk/bb3/Sonic.ar.00
-remove disk/bb3/Sonic.ar.01
-remove disk/bb3/Sonic.ar.02
-remove disk/bb3/Sonic.arl
-remove disk/bb3/voices/English/SonicVoice.ar.00
-remove disk/bb3/voices/English/SonicVoice.arl
-add Main/Off/nothing here.txt
-add Physics/disk/bb3/#Sonic.ar.00
-add Physics/disk/bb3/#Sonic.arl
-add Physics/disk/bb3/voices/English/SonicVoice.ar.00
-add Physics/disk/bb3/voices/English/SonicVoice.arl
-add Skin/Dark/disk/bb3/#RougeTexset.ar.00
-add Skin/Dark/disk/bb3/#RougeTexset.arl
-add Skin/Heroes/disk/bb3/#RougeTexset.ar.00
-add Skin/Heroes/disk/bb3/#RougeTexset.arl
-add Transform/Hyper Rouge/disk/bb3/Sonic.ar.00
-add Transform/Hyper Rouge/disk/bb3/Sonic.ar.01
-add Transform/Hyper Rouge/disk/bb3/Sonic.ar.02
-add Transform/Hyper Rouge/disk/bb3/Sonic.arl
-add Transform/Hyper Rouge/disk/bb3/voices/English/SonicVoice.ar.00
-add Transform/Hyper Rouge/disk/bb3/voices/English/SonicVoice.arl
+remove Transform/Super Rouge/disk/bb3/Sonic.ar.00
+remove Transform/Super Rouge/disk/bb3/Sonic.ar.01
+remove Transform/Super Rouge/disk/bb3/Sonic.ar.02
+remove Transform/Super Rouge/disk/bb3/Sonic.arl
 add Transform/Super Rouge/disk/bb3/Sonic.ar.00
 add Transform/Super Rouge/disk/bb3/Sonic.ar.01
 add Transform/Super Rouge/disk/bb3/Sonic.ar.02
 add Transform/Super Rouge/disk/bb3/Sonic.arl
-add Transform/Super Rouge/disk/bb3/voices/English/SonicVoice.ar.00
-add Transform/Super Rouge/disk/bb3/voices/English/SonicVoice.arl
-add Bat.dll
-add ConfigSchema.json
 add mod.ini
