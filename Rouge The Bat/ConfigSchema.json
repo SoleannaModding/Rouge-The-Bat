@@ -1,0 +1,114 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Transformation Form",
+            "Elements": [
+              {
+                "Name": "IncludeDir0",
+                "DisplayName": "Transformation Form",
+                "Description": [
+                  "Select which Super form Rouge will turn into."
+                ],
+                "Type": "SuperEnum",
+                "MinValue": null,
+                "MaxValue": null,
+                "DefaultValue": ".\\Transform\\Super Rouge\\"
+              }
+            ]
+        },
+        {
+            "Name": "Main",
+            "DisplayName": "Physics",
+            "Elements": [
+                {
+                    "Name": "IncludeDir1",
+                    "DisplayName": "Physics",
+                    "Description": [
+                        "Change Rouge's Physics'"
+                    ],
+                    "Type": "PhysicsEnum",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": ".\\Physics\\"
+                }
+            ]
+        },
+         {
+            "Name": "Main",
+            "DisplayName": "Skin",
+            "Elements": [
+                {
+                    "Name": "IncludeDir2",
+                    "DisplayName": "Skin",
+                    "Description": [
+                        "Change Rouge's Skin"
+                    ],
+                    "Type": "SkinEnum",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": ".\\Main\\Off\\"
+                }
+            ]
+        }
+    ],
+    "Enums": {
+        "SuperEnum": [
+            {
+                "DisplayName": "Super Rouge (Default)",
+                "Value": ".\\Transform\\Super Rouge\\",
+                "Description": [
+                    ""
+                ]
+            },
+            {
+                "DisplayName": "Hyper Rouge",
+                "Value": ".\\Transform\\Hyper Rouge\\",
+                "Description": [
+                    ""
+                ]
+            }
+        ],
+        "PhysicsEnum": [
+            {
+                "DisplayName": "Rouge Physics",
+                "Value": ".\\Physics\\",
+                "Description": [
+                    ""
+                ]
+            },
+            {
+                "DisplayName": "Default Physics",
+                "Value": ".\\Main\\Off\\",
+                "Description": [
+                    ""
+                ]
+            }
+        ],
+        "SkinEnum": [
+            {
+                "DisplayName": "Dark Outfit",
+                "Value": ".\\Skin\\Dark\\",
+                "Description": [
+                    ""
+                ]
+            },
+            {
+                "DisplayName": "Heroes",
+                "Value": ".\\Skin\\Heroes\\",
+                "Description": [
+                    ""
+                ]
+            },
+            {
+                "DisplayName": "Off",
+                "Value": ".\\Main\\Off\\",
+                "Description": [
+                    ""
+                ]
+            }
+        ]
+
+    },
+        "IniFile": "mod.ini"
+}
